@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Georgino7
+- 👀 I'm interested in programming in various languages, web application development, and website design
+- 🌱 Currently, I'm diving deep into learning Java and its functionalities
+- 📫 You can reach me via email at: placek.nafu@gmail.com
+- ⚡ Fun fact: I enjoy experimenting with different programming paradigms and exploring the latest trends in technology
